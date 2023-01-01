@@ -94,21 +94,21 @@ e not
 things: DEFINE   
 a word, human superpower (no computer needed)   
 b machine amplify word power (for good, or not)   
-c program things like    
+c future program things    
 - oo option/options   
 - need/want things   
 - list of lists thing
 - more,less say HOW MUCH of thing  <!-- <more less> slider thing   
 - comma,nospace options|option  <!-- tangle-like options in plain text syntax -->   
 - more players faster game  
-- ,better,more players switch  
+- better,more players switch  
+- player,user switch   <!-- own game thing -->
 - "1" one database for things thing   
 - one way past/future timeline thing <!-- proof of up only -->     
 - timechain for player, ledger   <!-- log things -->
 - copy or not, sync to chain option   <!-- own memory thing -->
 - copynot: proof of delete thing   <!-- new superpower thing -->
 - web of trust thing  <!-- anon ok -->  
-- player/user switch   <!-- own game thing -->
 - text enhance thing <!-- superhypertext -->   
 - picture things   <!-- pix8 -->
 - GIF things   <!-- ggif -->
